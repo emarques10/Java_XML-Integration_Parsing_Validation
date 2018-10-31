@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sale currency="Real">
+	<paymentMethod>Card</paymentMethod>
+	<products>
+		<product>
+			<name>XML Book</name>
+			<price>29.90</price>
+		</product>
+		<product>
+			<name>Java Book</name>
+			<price>29.90</price>
+		</product>
+	</products>
+</sale>
